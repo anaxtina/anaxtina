@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Olá, eu sou a Ana Cristina! 👋</h1>
-  <p>Engenheira de Machine Learning | cientista de Dados | Apaixonada por Inteligencia artificial </p>
+  <p>Engenheira de Machine Learning | Cientista de Dados | Apaixonada por Inteligencia artificial </p>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Desenvolvedora focada na construção de soluções inteligentes utilizando **Machine Learning**. Atualmente, dedico meus estudos à área de **Sistemas Antifraude** e **Engenharia de Dados**, buscando transformar dados brutos em decisões estratégicas de negócio.
+Desenvolvedora focada na construção de soluções inteligentes utilizando **Machine Learning**. Atualmente, dedico meus estudos à área de **Sistemas ** e **Engenharia de Dados**, buscando transformar dados em decisões inteligentes de negócio.
 
 ### 🛠️ Toolbox (Tecnologias)
 <div align="center">
