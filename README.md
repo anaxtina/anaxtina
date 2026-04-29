@@ -4,16 +4,14 @@
 
 <div align="center">
   <h1>Olá, eu sou a Ana Cristina! 👋</h1>
-  <p>Engenheira de Machine Learning | Analista de Dados | Apaixonada por Fintechs</p>
+  <p>Engenheira de Machine Learning | cientista de Dados | Apaixonada por Inteligencia artificial </p>
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/devtina">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anaxtina0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
 </div>
 
 ---
@@ -45,4 +43,4 @@ Desenvolvedora focada na construção de soluções inteligentes utilizando **Ma
 </div>
 
 ### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/devtina/?skipRedirect=true) | [E-mail](anaxtina0@gmail.com)
+|[E-mail](anaxtina0@gmail.com)
