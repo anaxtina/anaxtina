@@ -8,10 +8,10 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_USER_AQUI">
+  <a href="https://linkedin.com/in/devtina">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:anaxtina0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
